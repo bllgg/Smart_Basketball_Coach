@@ -16,6 +16,10 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Register" />
+        <activity android:name=".Session" />
+        <activity android:name=".Analysis" />
+        <activity android:name=".Feedback"></activity>
     </application>
 
 </manifest>
